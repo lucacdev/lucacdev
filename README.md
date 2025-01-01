@@ -5,7 +5,7 @@
 
 ---
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About me:
 - 🏦 I'm currently unemployed
 - 🤓 I know portuguese, english and a little of italian and german
 - 🧑‍💻 Tech I already used:
