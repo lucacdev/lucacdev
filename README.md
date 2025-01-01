@@ -1,7 +1,7 @@
 <h1><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"/> Hey there!</h1>
 
 
-<p>Welcome to my page! </br> I'm Luca, a developer from <img src="https://cdn.icon-icons.com/icons2/3665/PNG/512/brazil_flag_icon_228666.png" width="13"/> <b>Brazil</b>. </p>
+<p>Welcome to my page! </br> I'm Luca, a junior developer. </p>
 
 ---
 
